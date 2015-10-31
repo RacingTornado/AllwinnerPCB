@@ -1,6 +1,6 @@
 The MIT License
 
-Copyright (c) 2010-2015 Google, Inc. http://angularjs.org
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,7 +25,6 @@ THE SOFTWARE.
 
 ##################################################################################################
 
-- This is an ongoing project to desing a open source all winner board with easily available RAM on Aliexpress and Verical
+- This is an ongoing project to design an open source all winner board with easily available RAM on Aliexpress and Verical
 - Link for own mailbox: https://www.own-mailbox.com/
 - This design is closely based on Olimex SOM as well as the Mail box which is a really cool project on Kickstarter
-- THis project is licensed under MIT
